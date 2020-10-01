@@ -1,8 +1,9 @@
 Crafting For Christ are actively seeking talented Website, Backend and Game Developers that would like to be a part of the Crafting For Christ development team.
 
-The platform that we run all of our services off is a software called <a href="https://github.com/benrobson/zander">zander</a> created by <a href="https://github.com/benrobson">benrobson</a>.
+The platform that we run all of our services off is a software called <a href="https://github.com/craftingforchrist/zander">zander</a> created by <a href="https://github.com/benrobson">Ben Robson</a>.
 You can learn more about the program and how it operates <a href="https://docs.craftingforchrist.net/">here</a>.
 
+This role is especially good for students that are studying and wanting to experience the Development field and gain voluntary experience.
 You will be responsible for conceptualizing and executing clear, quality code to develop the best software. You will test your code, identify errors, and iterate to ensure quality code.
 
 ## Requirements
@@ -51,4 +52,4 @@ If in the case that the website does not work, please fill out the application <
 ## Note
 By submitting your application, you agree to have your application and any material provided within it made available to Crafting For Christ Developers and Administrators. We respect your privacy and will not share the application beyond these select few.
 
-We do not have the capacity to offer paid positions. Crafting For Christ is ran entirely by unpaid developers, staff members and other helpers.
+We do not have the capacity to offer paid positions. Crafting For Christ is run entirely by unpaid developers, staff members and other helpers.
