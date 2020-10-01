@@ -11,6 +11,8 @@ You will be responsible for conceptualizing and executing clear, quality code to
     <li>Detect and troubleshoot software issues.</li>
     <li>Write clear quality code for software and applications and perform test reviews.</li>
     <li>Provide input on software development projects.</li>
+    <li>Comfort using programming languages and relational databases.</li>
+    <li>Strong debugging and troubleshooting skills.</li>
   </ul>
   ### In Game Developer
   Required Experience:
