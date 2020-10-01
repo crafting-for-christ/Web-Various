@@ -14,6 +14,7 @@ You will be responsible for conceptualizing and executing clear, quality code to
     <li>Comfort using programming languages and relational databases.</li>
     <li>Strong debugging and troubleshooting skills.</li>
   </ul>
+  
   ### In Game Developer
   Required Experience:
     <ul>
