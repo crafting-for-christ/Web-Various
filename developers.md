@@ -1,9 +1,17 @@
-Crafting For Christ are actively seeking talented website, backend and game developers that would like to be a part of the Crafting For Christ development team.
+Crafting For Christ are actively seeking talented Website, Backend and Game Developers that would like to be a part of the Crafting For Christ development team.
 
-The platform that we run all of our services off is a program called <a href="https://github.com/benrobson/zander">zander</a> created by <a href="https://github.com/benrobson">benrobson</a>.
-You can learn more about the program and how it operates <a href="https://zanderdocs.benrobson.me/">here</a>.
+The platform that we run all of our services off is a software called <a href="https://github.com/benrobson/zander">zander</a> created by <a href="https://github.com/benrobson">benrobson</a>.
+You can learn more about the program and how it operates <a href="https://docs.craftingforchrist.net/">here</a>.
+
+You will be responsible for conceptualizing and executing clear, quality code to develop the best software. You will test your code, identify errors, and iterate to ensure quality code.
 
 ## Requirements
+  ### Basic Requirements
+  <ul>
+    <li>Detect and troubleshoot software issues.</li>
+    <li>Write clear quality code for software and applications and perform test reviews.</li>
+    <li>Provide input on software development projects.</li>
+  </ul>
   ### In Game Developer
   Required Experience:
     <ul>
