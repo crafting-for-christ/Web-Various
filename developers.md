@@ -6,8 +6,8 @@ Your role will consist of writing and executing clear and quality code to develo
   ### Basic Requirements
   <ul>
     <li>Detect and troubleshoot software issues.</li>
-    <li>Write clear quality code for software and applications and perform test reviews.</li>
-    <li>Provide input on software development projects.</li>
+    <li>Write code for Network software and applications.</li>
+    <li>Provide input on Network development projects.</li>
     <li>Comfort using programming languages (and relational databases).</li>
     <li>Basic debugging and troubleshooting skills.</li>
   </ul>
