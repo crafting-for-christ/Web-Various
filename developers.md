@@ -1,5 +1,6 @@
-Crafting For Christ are actively seeking talented Website, Backend and Game Developers that would like to be a part of the Crafting For Christ development team.
-This role is especially good for students that are studying and wanting to experience the Development field and gain voluntary experience. Your role will consist of writing and executing clear and quality code to develop our software. You will test your code and identify errors.
+Crafting For Christ are actively seeking talented Website, Backend and Game Developers that would like to be a part of the Crafting For Christ development team.<br>
+This role is especially good for students that are studying and wanting to experience the Development field and gain voluntary experience.<br>
+Your role will consist of writing and executing clear and quality code to develop our software. You will test your code and identify errors.
 
 ## Requirements
   ### Basic Requirements
